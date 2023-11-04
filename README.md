@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adrian, 18 years old
+- 👋 Hi, I’m Adrian, 19 years old
 - 👀 I’m interested in FOSS Software
 - 🌱 I’m currently learning Javascript and Python
 
